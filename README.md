@@ -18,6 +18,6 @@ An intermediate level Software engineer specializing in backend technologies. Fa
 
 ## 📊 Statistics
 <div style="display: flex; justify-content: space-between;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cartoon01&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cartoon01" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cartoon01&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briankamau-dev&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cartoon01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=briankamau-dev&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
 </div>
